@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/sinishawt/meme-genrator/blob/master/Meme%20Genrator.JPG
+![alt text](https://github.com/sinishawt/meme-genrator/blob/master/Meme%20Genrator.JPG)
+
 
 ## Available Scripts
 
